@@ -13,5 +13,5 @@ nights = gets.chomp
 puts ""
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "What food do you want to eat?"
+puts "What food would you like to eat?"
 eats = gets.chomp.capitalize
